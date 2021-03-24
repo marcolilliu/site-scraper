@@ -1,3 +1,6 @@
+# Site Scraper
+A tool that can search for energy label among 36k samsung.com pages and returns it's value within a spreadheet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
